@@ -7,6 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Year+2+Software+Engineering+at+CADT;Building+for+the+web+with+React;Learning+TypeScript+and+Next.js+next" alt="Year 2 Software Engineering at CADT. Building for the web with React. Learning TypeScript and Next.js next." />
 
 <a href="https://github.com/thichsambath-lab/portfolio"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.facebook.com/sam.bath.784461"><img src="https://img.shields.io/badge/Facebook-2563eb?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://t.me/sammz078"><img src="https://img.shields.io/badge/Telegram-2563eb?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:thichsambath@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Phnom%20Penh-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Phnom Penh" />
 

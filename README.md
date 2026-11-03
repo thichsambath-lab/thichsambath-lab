@@ -41,12 +41,10 @@ I'm 18 and in my second year of Software Engineering at the Cambodia Academy of 
 
 <div align="center">
 
-<a href="https://github.com/thichsambath-lab/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thichsambath-lab&repo=portfolio&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="portfolio" /></a>
-<a href="https://github.com/thichsambath-lab/abapay-bot-demo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thichsambath-lab&repo=abapay-bot-demo&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="abapay-bot-demo" /></a>
-<a href="https://github.com/thichsambath-lab/abapay_integration"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thichsambath-lab&repo=abapay_integration&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="abapay_integration" /></a>
-<a href="https://github.com/thichsambath-lab/dml-update"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thichsambath-lab&repo=dml-update&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="dml-update" /></a>
-<a href="https://github.com/thichsambath-lab/roblox-script"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thichsambath-lab&repo=roblox-script&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="roblox-script" /></a>
-<a href="https://github.com/thichsambath-lab/ai-prompt-bypass"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thichsambath-lab&repo=ai-prompt-bypass&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="ai-prompt-bypass" /></a>
+<a href="https://github.com/thichsambath-lab/V-04-VR-for-Education-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thichsambath-lab&repo=V-04-VR-for-Education-&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="V-04-VR-for-Education-" /></a>
+<a href="https://github.com/thichsambath-lab/tool-record-video-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thichsambath-lab&repo=tool-record-video-&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="tool-record-video-" /></a>
+<a href="https://github.com/thichsambath-lab/VIBELEARN"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thichsambath-lab&repo=VIBELEARN&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="VIBELEARN" /></a>
+<a href="https://github.com/thichsambath-lab/FixFlow"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thichsambath-lab&repo=FixFlow&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&description_lines_count=1" alt="FixFlow" /></a>
 
 </div>
 
@@ -56,8 +54,8 @@ I'm 18 and in my second year of Software Engineering at the Cambodia Academy of 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thichsambath-lab&show_icons=true&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thichsambath-lab&layout=compact&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&text_color=8b949e" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=thichsambath-lab&show_icons=true&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thichsambath-lab&layout=compact&theme=transparent&hide_border=false&border_color=30363d&title_color=3b82f6&text_color=8b949e" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=thichsambath-lab&theme=transparent&border=30363d&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak" />
 

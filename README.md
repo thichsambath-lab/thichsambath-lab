@@ -1,6 +1,12 @@
 <div align="center">
   <!-- Dynamic Synthwave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7209b7&height=200&section=header&text=Thich%20Sambath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20CADT&descAlignY=55&descAlign=50" alt="Header Banner" />
+  
+  <br /><br />
+  
+  <a href="https://github.com/thichsambath-lab">
+    <img src="https://github.com/thichsambath-lab.png" width="130" height="130" alt="Thich Sambath's Avatar" />
+  </a>
 </div>
 
 <h1 align="center">Hi there, I'm Thich Sambath! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="30px"></h1>
